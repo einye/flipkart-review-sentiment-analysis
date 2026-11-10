@@ -12,7 +12,7 @@ Customer reviews are a goldmine for product feedback, but star ratings alone don
 
 ## Dataset
 
-- **Source:** `flipkart_product.csv`
+- [**Source**](https://www.kaggle.com/datasets/mansithummar67/flipkart-product-review-dataset/data)
 - **Columns:** `ProductName`, `Price`, `Rate`, `Review`, `Summary`
 - **Encoding:** `ISO/IEC 8859-1 (Latin-1)`
 
